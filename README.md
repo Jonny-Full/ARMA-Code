@@ -1,0 +1,1 @@
+This repository holds all code written for the University of Minnesota - Twin Cities ARMA project design.
